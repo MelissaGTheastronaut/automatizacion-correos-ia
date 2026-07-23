@@ -68,15 +68,20 @@ automático    automático
 ```
 ## Workflow Part 1
 
-![Workflow Part 1](images/workflow part1.png)
+![Workflow Part 1](workflow%20part1.png)
+
+---
 
 ## Workflow Part 2
 
-![Workflow Part 2](images/workflow part2.png)
+![Workflow Part 2](workflow%20part2.png)
+
+---
 
 ## Workflow Part 3
 
-![Workflow Part 3](images/workflow part3.png)
+![Workflow Part 3](workflow%20part3.png)
+
 ---
 
 ## Objetivo
