@@ -102,5 +102,4 @@ Reducir el trabajo manual del docente mediante la automatización del proceso de
 
 ---
 
-## Estado del proyecto
-Proyecto académico en desarrollo.
+
