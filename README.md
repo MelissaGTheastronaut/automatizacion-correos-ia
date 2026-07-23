@@ -1,4 +1,4 @@
-# 📧 Sistema de Automatización de Entregas Académicas con IA
+#  Sistema de Automatización de Entregas Académicas con IA
 
 ## Descripción
 
